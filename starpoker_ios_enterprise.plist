@@ -38,6 +38,10 @@
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
+                <key>subtitle</key>
+                <string>StarPoker</string>
+                <key>title</key>
+                <string>StarPoker</string>
             </dict>
         </dict>
     </array>
