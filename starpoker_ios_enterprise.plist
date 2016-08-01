@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://dl.starpoker.baidu.com/ipa/starpoker_ios_enterprise.ipa</string>
+                    <string>http://172.18.202.28/ipa/starpoker_ios_enterprise.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
