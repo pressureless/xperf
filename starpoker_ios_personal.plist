@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://dl.starpoker.baidu.com/img/starpoker_small_icon.png</string>
+                    <string>http://172.18.202.28/img/starpoker_small_icon.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://dl.starpoker.baidu.com/img/starpoker_small_icon.png</string>
+                    <string>http://172.18.202.28/img/starpoker_small_icon.png</string>
                 </dict>
             </array>
             <key>metadata</key>
