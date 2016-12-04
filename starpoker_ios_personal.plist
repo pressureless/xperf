@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://172.18.202.28/ipa/starpoker_ios_personal.ipa</string>
+                    <string>http://172.18.202.31/ipa/starpoker_ios_personal.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://172.18.202.28/img/starpoker_small_icon.png</string>
+                    <string>http://172.18.202.31/img/starpoker_small_icon.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://172.18.202.28/img/starpoker_small_icon.png</string>
+                    <string>http://172.18.202.31/img/starpoker_small_icon.png</string>
                 </dict>
             </array>
             <key>metadata</key>
